@@ -1,2 +1,2 @@
-# workshops
-Notebooks and other stuff from the workshops.
+# Workshops
+Notebooks and other files from the workshops.
