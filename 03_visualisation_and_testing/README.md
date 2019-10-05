@@ -4,5 +4,8 @@ data visualization bokeh alapon
 - diagram formázás
 
 több dimenziós data set ábrázolása két dimenzióban
+
 idősor árázolása
+
 geo coordinates bokeh-ben
+
