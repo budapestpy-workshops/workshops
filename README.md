@@ -2,8 +2,10 @@
 How to download and run Jupyter Notebooks from GitHub:
 - Go into the repo where you want to download the notebook.
 - Right click on the notebook "Save link as" or "Link mentése más néven".
-- Copy it to your Jupyter Notebook folder, which by default your User folder in Windows.
+- Copy it to your Anaconda root folder, which by default your User folder in Windows.
 - Now you can go to http://localhost:8888/tree, and browse for the file.
+
+Or you can click the green "Clone or Download" button, and download a ZIP file to your Anaconda folder (by default, your User folder), unpack it, then look for it at http://localhost:8888/tree.
 
 How to install Anaconda:
 - https://docs.anaconda.com/anaconda/install/windows/
