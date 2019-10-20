@@ -11,3 +11,5 @@ The same notebook as the previous, expect it has some holes in the tips dataset 
 Get to know Bokeh better with a nifty visualisation of time series as the third dimension. We investigate the correlation between current health expenditure and the life expectancy at birth for every continent.
 
 
+**DataCleaning files** (Bertalan Rónai's part) : 
+First, download Microsoft Power BI from the Microsoft store or from powerbi.com. Then check out the PowerPoint presentation, the source excel file and the Power BI file.
