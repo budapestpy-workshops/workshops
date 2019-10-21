@@ -6,12 +6,12 @@ How to download and run Jupyter Notebooks from GitHub:
 - Now you can go to http://localhost:8888/tree, and browse for the file.
 
 Or you can click the green "Clone or Download" button, and download a ZIP file to your Anaconda folder (by default, your User folder), unpack it, then look for it at http://localhost:8888/tree.
-
+***
 How to install Anaconda:
 - https://docs.anaconda.com/anaconda/install/windows/
 - https://docs.anaconda.com/anaconda/install/mac-os/
 - https://docs.anaconda.com/anaconda/install/linux/
-
+***
 How to install libraries in Anaconda:
 
 Go to your Anaconda Prompt and put in the install command. The example is for folium (a data visualisation library):
