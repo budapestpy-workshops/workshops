@@ -1,4 +1,9 @@
 # Workshops
+### How to install Anaconda:
+- https://docs.anaconda.com/anaconda/install/windows/
+- https://docs.anaconda.com/anaconda/install/mac-os/
+- https://docs.anaconda.com/anaconda/install/linux/
+***
 ### How to download and run Jupyter Notebooks from GitHub:
 - Go into the repo where you want to download the notebook.
 - Right click on the notebook "Save link as" or "Link mentése más néven".
@@ -6,11 +11,6 @@
 - Now you can go to http://localhost:8888/tree, and browse for the file.
 
 Or you can click the green "Clone or Download" button, and download a ZIP file to your Anaconda folder (by default, your User folder), unpack it, then look for it at http://localhost:8888/tree.
-***
-### How to install Anaconda:
-- https://docs.anaconda.com/anaconda/install/windows/
-- https://docs.anaconda.com/anaconda/install/mac-os/
-- https://docs.anaconda.com/anaconda/install/linux/
 ***
 ### How to install libraries in Anaconda:
 
