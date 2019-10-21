@@ -14,5 +14,7 @@ How to install Anaconda:
 ***
 How to install libraries in Anaconda:
 
-Go to your Anaconda Prompt and put in the install command. The example is for folium (a data visualisation library):
+Go to your Anaconda Prompt and put in the install command. 
+For example for folium (a data visualisation library):
+
 Google the "conda install folium" command - usually this is the exact command you will give. But in this case, you get the standard anaconda.org page (https://anaconda.org/conda-forge/folium), where you can find that the command here is "conda install -c conda-forge folium".
