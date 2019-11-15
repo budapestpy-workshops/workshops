@@ -1,0 +1,17 @@
+#!/usr/bin/python
+
+original = [1, 2, 3, 4, 5]
+
+b = original
+c = original[:]
+
+print("original: ", original)
+print("       b: ", b)
+print("       c: ", c)
+print("########################")
+#b[2] = 42
+#print("modify a member in b: b[2] = 42")
+#print("\n")
+#print("original: ", original)
+#print("       b: ", b)
+#print("       c: ", c)
