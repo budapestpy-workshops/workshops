@@ -1,1 +1,2 @@
-﻿
+### Pump it up 2.
+Since it's a big task, with a lot of opportunity to learn new things, we are doing another event with this competition. The pumpitup_train_preprocessed.csv and the pumpitup_test_preprocessed.csv as the name suggests, are the preprocessed data for either the train and the test set. They contain more than a 100 columns because of One-hot encoding, some binning and an additional column selection. With these files we can experiment model selection, and tuning, without touching the original data.
