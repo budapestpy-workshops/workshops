@@ -1,0 +1,11 @@
+bird_id,species,start,end,duration,event
+1,blue,0,90,90,1
+2,blue,0,60,60,0
+3,red,0,60,60,1
+4,red,0,45,45,1
+5,red,0,45,45,0
+6,blue,0,50,50,1
+7,red,0,50,50,1
+8,red,0,60,60,1
+9,blue,0,90,90,0
+10,blue,0,40,40,0
